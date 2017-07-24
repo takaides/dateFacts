@@ -1,0 +1,23 @@
+{
+  "name": "datefacts",
+  "version": "0.0.1",
+  "description": "Use the moment and chalk packages and build a script that gives you information about the current date and time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takaides/dateFacts.git"
+  },
+  "author": "Ben Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takaides/dateFacts/issues"
+  },
+  "homepage": "https://github.com/takaides/dateFacts#readme",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "moment": "^2.18.1"
+  }
+}
